@@ -11,7 +11,7 @@ class LinkedList{
         this.size = 0 ;
     }
 
-    // check 
+    // check Empty
 
     isEmpty(){
         return this.size === 0 ;

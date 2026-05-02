@@ -20,4 +20,6 @@
 //     {$group : {_id : "$role" ,  Age : {$max : "$age"}} }
 // ])
 
-db.AgedPerson.find()
+// db.AgedPerson.find()
+
+use ('secondDomain')
